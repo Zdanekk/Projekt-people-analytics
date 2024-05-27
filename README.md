@@ -6,4 +6,4 @@ Amanda Czechowska
 
 # Sing a song
 
-## "Jestem Fagata sexy 🍑 spod 🐎"
+## "Jestem Fagata sexy 🍑"
