@@ -1,5 +1,6 @@
 
 # Project People Analytics
+![logo](https://github.com/Zdanekk/Projekt-people-analytics/assets/169438375/70efd862-21d8-4396-a07e-8460784818f9)
 
 ## Project Overview 💡
 The Team Management project aims to enhance the management of project teams within the WAIT organization. WAIT is dedicated to executing projects in the fields of Artificial Intelligence (AI), Data Science, and Business Intelligence (BI). By analyzing data regarding the competencies of team members, this project seeks to improve the processes involved in forming effective project teams. The overarching goal is to leverage data-driven insights to create well-balanced, high-performing teams.
