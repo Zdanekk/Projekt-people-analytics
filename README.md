@@ -31,7 +31,7 @@ To achieve the objectives, the project will employ machine learning techniques, 
 ### **``` This project is carried out by students eager to develop their skills in data analysis. ```**
 
 
-## Project Description
+## Project Description 🖊️
 
 ➡️ The chapter [_"01_datapreprocessing"_](https://github.com/Zdanekk/Projekt-people-analytics/blob/main/notebooks/01_DataPreprocessing.ipynb) deals with the initial preprocessing of data from an Excel file related to a competency survey. The process begins by loading the data from the Excel file into a DataFrame object using the pd.read_excel function. Subsequently, the ID column is converted to a string type to ensure data consistency.
 
