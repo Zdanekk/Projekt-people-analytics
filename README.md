@@ -43,7 +43,7 @@ Finally, the filtered and updated data is saved to a new CSV file, enabling furt
 
 The data is loaded from this CSV file into a DataFrame using pandas. Specific values in the "Community Participation" column, which indicate non-contributory responses, are defined and removed from the dataset. The filtered data is then saved to a new CSV file in the specified output directory, ensuring that only relevant data is retained for further analysis.
 
-Overall, this chapter ensures that the dataset is cleaned and filtered by removing irrelevant responses, making it ready for subsequent stages of analysis and modeling.
+Overall, this chapter ensures that the dataset is cleaned and filtered by removing irrelevant responses, making it ready for subsequent stages of analysis and modeling. 
 
 ➡️ The chapter [_"03_ExploratoryDataAnalysis"_](https://github.com/Zdanekk/Projekt-people-analytics/blob/main/notebooks/03_ExploratoryDataAnalysis.ipynb) focuses on performing exploratory data analysis (EDA) on the filtered dataset to uncover patterns, relationships, and insights. The process begins with loading the processed data from a CSV file and setting the 'Participant ID' as the index. The script then selects numerical columns for correlation analysis and creates a triangular heatmap of Spearman correlations to visualize the relationships between numerical variables.
 
