@@ -31,7 +31,7 @@ To achieve the objectives, the project will employ machine learning techniques, 
 ### **``` This project is carried out by students eager to develop their skills in data analysis. ```**
 
 
-## Project GDescription
+## Project Description
 
 ➡️ The chapter [_"01_datapreprocessing"_](https://github.com/Zdanekk/Projekt-people-analytics/blob/main/notebooks/01_DataPreprocessing.ipynb) deals with the initial preprocessing of data from an Excel file related to a competency survey. The process begins by loading the data from the Excel file into a DataFrame object using the pd.read_excel function. Subsequently, the ID column is converted to a string type to ensure data consistency.
 
@@ -51,9 +51,10 @@ Next, unnecessary columns are removed, and the data is sorted based on the sum o
 
 Overall, this chapter involves cleaning and organizing the data, performing correlation analysis, and visualizing various aspects of the data to gain deeper insights into participant competencies and relationships between different skills.
 
+➡️ The chapter [_"04_K-means"_](https://github.com/Zdanekk/Projekt-people-analytics/blob/main/notebooks/04_K-means.ipynb)
+focuses on clustering data using the k-means algorithm. The process begins by loading the filtered data from a CSV file and removing textual columns and the 'Participant ID' column. Next, the optimal number of clusters is determined using the Elbow Method, visualizing the inertia for different values of 𝑘.
 
-
-
+Based on the Elbow Method results, the optimal number of clusters is selected, and the k-means clustering algorithm is applied to group the data. The clustering results are validated using the Silhouette Score and Davies-Bouldin Index. Additionally, the script prints the participant IDs assigned to each cluster and visualizes the correlation matrix for each cluster, helping to understand the relationships between variables within each cluster.
 
 
 
