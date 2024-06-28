@@ -70,7 +70,7 @@ The code performs hierarchical clustering using two different methods: Ward's me
 
 
 ## Project Status
-Project is: _end_  
+Project is: _completed_  
 
 ## Contributors 😎
 This project is brought to you by a dedicated team of students eager to develop their skills in data analysis. Below are the contributors to this project along with links to their GitHub profiles:
